@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9924cdfda698e41ac10b098ded57eeb8",
+    "revision": "0d2e9aa4874059a644e9c893bc1b8e62",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.7369bb08.chunk.css"
   },
   {
-    "revision": "2fd413b7e552f16d5335",
+    "revision": "e88c8a2a25ac58735c8d",
     "url": "/static/css/main.85b56d60.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.7f5b70c1.chunk.js"
   },
   {
-    "revision": "2fd413b7e552f16d5335",
-    "url": "/static/js/main.57ccc2d0.chunk.js"
+    "revision": "e88c8a2a25ac58735c8d",
+    "url": "/static/js/main.14424cc0.chunk.js"
   },
   {
     "revision": "ff7c75610850b6fbf655",
@@ -48,12 +48,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Alitrav.983e9c27.png"
   },
   {
-    "revision": "f93b57d1960d44d2855ebdfe52623378",
-    "url": "/static/media/FoyerPourVous.f93b57d1.png"
+    "revision": "b234022460da9ac9380083dcfdfe3fcd",
+    "url": "/static/media/FEDE2.b2340224.png"
   },
   {
-    "revision": "f33653f58c58fd2fd807a7d9866cb70d",
-    "url": "/static/media/Logo_fede_2016_.f33653f5.png"
+    "revision": "f93b57d1960d44d2855ebdfe52623378",
+    "url": "/static/media/FoyerPourVous.f93b57d1.png"
   },
   {
     "revision": "847627bffd52aab57ce2e903f144e07f",
@@ -90,10 +90,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
     "url": "/static/media/skill.34409398.svg"
-  },
-  {
-    "revision": "cafe70b4f9408d0df3703e07926ab853",
-    "url": "/static/media/soltan.cafe70b4.png"
   },
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
