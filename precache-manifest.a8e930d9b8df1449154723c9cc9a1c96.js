@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0d2e9aa4874059a644e9c893bc1b8e62",
+    "revision": "db27deded836eecf58335ea4dd40b4a0",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.7369bb08.chunk.css"
   },
   {
-    "revision": "e88c8a2a25ac58735c8d",
+    "revision": "f5b4018573ee4f243aac",
     "url": "/static/css/main.85b56d60.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.7f5b70c1.chunk.js"
   },
   {
-    "revision": "e88c8a2a25ac58735c8d",
-    "url": "/static/js/main.14424cc0.chunk.js"
+    "revision": "f5b4018573ee4f243aac",
+    "url": "/static/js/main.0a15796e.chunk.js"
   },
   {
     "revision": "ff7c75610850b6fbf655",
@@ -48,20 +48,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Alitrav.983e9c27.png"
   },
   {
-    "revision": "b234022460da9ac9380083dcfdfe3fcd",
-    "url": "/static/media/FEDE2.b2340224.png"
+    "revision": "ac47fb93e9b09a1ffe6b1975607f6276",
+    "url": "/static/media/FEDE2.ac47fb93.png"
   },
   {
-    "revision": "f93b57d1960d44d2855ebdfe52623378",
-    "url": "/static/media/FoyerPourVous.f93b57d1.png"
+    "revision": "5fd5c2954dec8e23615e39c734eedf79",
+    "url": "/static/media/FoyerPourVous.5fd5c295.png"
   },
   {
     "revision": "847627bffd52aab57ce2e903f144e07f",
     "url": "/static/media/Montserrat-Regular.847627bf.ttf"
   },
   {
-    "revision": "eaa7259219d07cb05c42455f3ad9bc0a",
-    "url": "/static/media/ancfcc.eaa72592.png"
+    "revision": "06365cf6b6f6f78aba3eec42001a43f3",
+    "url": "/static/media/anfcc.06365cf6.png"
   },
   {
     "revision": "51cf7192327488da3d2a171280680c16",
@@ -94,5 +94,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
     "url": "/static/media/talksCardBack.13780cdd.svg"
+  },
+  {
+    "revision": "b81a0f1dc866fbb91990a41b0633d320",
+    "url": "/static/media/usms.b81a0f1d.png"
   }
 ]);

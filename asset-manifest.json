@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.85b56d60.chunk.css",
-    "main.js": "/static/js/main.14424cc0.chunk.js",
-    "main.js.map": "/static/js/main.14424cc0.chunk.js.map",
+    "main.js": "/static/js/main.0a15796e.chunk.js",
+    "main.js.map": "/static/js/main.0a15796e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ed74bdba.js",
     "runtime-main.js.map": "/static/js/runtime-main.ed74bdba.js.map",
     "static/js/2.775151bf.chunk.js": "/static/js/2.775151bf.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.7f5b70c1.chunk.js": "/static/js/4.7f5b70c1.chunk.js",
     "static/js/4.7f5b70c1.chunk.js.map": "/static/js/4.7f5b70c1.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a7ebb25d0b82e4d8e0524979b8b59acf.js": "/precache-manifest.a7ebb25d0b82e4d8e0524979b8b59acf.js",
+    "precache-manifest.a8e930d9b8df1449154723c9cc9a1c96.js": "/precache-manifest.a8e930d9b8df1449154723c9cc9a1c96.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.d29f9f24.chunk.css.map": "/static/css/3.d29f9f24.chunk.css.map",
     "static/css/4.7369bb08.chunk.css.map": "/static/css/4.7369bb08.chunk.css.map",
@@ -22,9 +22,9 @@
     "static/js/2.775151bf.chunk.js.LICENSE.txt": "/static/js/2.775151bf.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.847627bf.ttf",
     "static/media/Alitrav.png": "/static/media/Alitrav.983e9c27.png",
-    "static/media/FEDE2.png": "/static/media/FEDE2.b2340224.png",
-    "static/media/FoyerPourVous.png": "/static/media/FoyerPourVous.f93b57d1.png",
-    "static/media/ancfcc.png": "/static/media/ancfcc.eaa72592.png",
+    "static/media/FEDE2.png": "/static/media/FEDE2.ac47fb93.png",
+    "static/media/FoyerPourVous.png": "/static/media/FoyerPourVous.5fd5c295.png",
+    "static/media/anfcc.png": "/static/media/anfcc.06365cf6.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
     "static/media/kamawork.png": "/static/media/kamawork.4b4260d7.png",
@@ -32,12 +32,13 @@
     "static/media/nextuLogo.webp": "/static/media/nextuLogo.829ad0a1.webp",
     "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.25018d29.webp",
     "static/media/skill.svg": "/static/media/skill.34409398.svg",
-    "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg"
+    "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg",
+    "static/media/usms.png": "/static/media/usms.b81a0f1d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ed74bdba.js",
     "static/js/2.775151bf.chunk.js",
     "static/css/main.85b56d60.chunk.css",
-    "static/js/main.14424cc0.chunk.js"
+    "static/js/main.0a15796e.chunk.js"
   ]
 }
